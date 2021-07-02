@@ -1,0 +1,22 @@
+{
+  "name": "node.js_1",
+  "version": "1.0.0",
+  "description": "node.js_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Alexander-S/node.js_1.git"
+  },
+  "author": "Akimov A.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Alexander-S/node.js_1/issues"
+  },
+  "homepage": "https://github.com/A-Alexander-S/node.js_1#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
