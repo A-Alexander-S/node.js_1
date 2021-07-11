@@ -42,14 +42,9 @@ function coloringPrimeNumbers(primeNumber, counterColors) {
 
   if (counterColors === 1) {
     console.log(colors.green(`Простое число  ${primeNumber}`));
-    // console.log('1:' + counterColors);
   } else if (counterColors === 2) {
     console.log(colors.yellow(`Простое число  ${primeNumber}`));
-    // console.log('2:' + counterColors);
-    // console.log(counterColors);
   } else if (counterColors === 3) {
     console.log(colors.red(`Простое число  ${primeNumber}`));
-    // console.log('3:' + counterColors);
-    // console.log('last:' + counterColors);
   };
 };
